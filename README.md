@@ -6,6 +6,7 @@
 <h4 align="center">| 1. Sungkyunkwan University, South Korea | 2. KFUPM, KSA | 3. UTS, Australia | 4. NIT Rourkela, India |</h4> 
 <h4 align="center">| *Corresponding Author |</h4> <br>
 ----------
+
 ## HazeSpace2M Dataset
 
 ![](./assets/HazeSpace2M.jpg)
