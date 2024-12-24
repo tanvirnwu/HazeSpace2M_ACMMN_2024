@@ -27,11 +27,9 @@ We are preparing the complete dataset formatting with a structural naming conven
 
 
 ## Pretrained Weights
-We will upload the pre-trained weights very soon.
-<!--All the pre-trained weights of the classifiers and the dehazers are available to download:
+All the pre-trained weights of the classifiers and the dehazers are available to download:
 <br>
-DropBox: | [**Classifier**](https://www.dropbox.com/scl/fo/8yq89dwtzi5oz46m394vt/AFdoA362cTL8-lLLxoITo9w?rlkey=brfwcbcnv4y627elmz21i626w&st=3vaoml2m&dl=0) | [**Specialized Dehazers**](https://www.dropbox.com/scl/fo/kc6lnv7gbov0npu2obp4n/AD5zNVhki2x3GH9HA5Lwbqk?rlkey=jzpunuzrkb0a44hh1x1fu44yi&st=7gb5qb67&dl=0) |
--->
+Google Drive: | [**Classifier**](https://drive.google.com/drive/folders/147o4ltcZUYyct8oaTED4KuJFkAiV66zC?usp=sharing) | [**Specialized Dehazers**](https://drive.google.com/drive/folders/110cLD5pfLqLuIV95yBBTvXhbIQ2aZ2kd?usp=sharing) |
 ## Testing
 ```
 python inference.py --gt_folder <path_to_gt> --hazy_folder <path_to_hazy> --output_dir <output_dir> --classifier <path_to_classifier> --cloudSD <path_to_cloudSD> --ehSD <path_to_ehSD> --fogSD <path_to_fogSD>
@@ -62,13 +60,6 @@ _**Note:** Each variable is explained in the inference.py file._
 If you find our work useful in your research, please consider citing our paper:
 
 ```bibtex
-@article{islam2024hazespace2m,
-  title={HazeSpace2M: A Dataset for Haze Aware Single Image Dehazing},
-  author={Islam, Md Tanvir and Rahim, Nasir and Anwar, Saeed and Saqib, Muhammad and Bakshi, Sambit and Muhammad, Khan},
-  journal={arXiv preprint arXiv:2409.17432},
-  year={2024}
-}
-
 @inproceedings{hazespace2m,
   title={HazeSpace2M: A Dataset for Haze Aware Single Image Dehazing},
   author={Islam, Md Tanvir and Rahim, Nasir and Anwar, Saeed and Saqib Muhammad and Bakshi, Sambit and Muhammad, Khan},
