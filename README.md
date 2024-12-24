@@ -7,6 +7,7 @@
 <h4 align="center">| *Corresponding Author |</h4> <br>
 ----------
 ## HazeSpace2M Dataset
+
 ![](./assets/HazeSpace2M.jpg)
 
 ## Haze Aware Dehazing
