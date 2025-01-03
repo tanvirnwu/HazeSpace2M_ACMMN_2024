@@ -18,11 +18,8 @@ pip install -r requirements.txt
 ````
 
 ## Dataset Download
-We are preparing the complete dataset formatting with a structural naming convention. We will upload the full dataset as soon as we complete preparing the dataset with correct naming format as we displayed in the last images in this page. 
-<!--The subsets of the HazeSpace2M dataset are available for download from the following links:
-1. **Kaggle:** Outdoor | 2. Street | 3. Farmland | 4. Satellite 
-2. **TeraBox:** Outdoor | 2. Street | 3. Farmland | 4. Satellite -->
-
+The subsets of the HazeSpace2M dataset are available for download from the following links:
+**Kaggle:** Outdoor | 2. Street | 3. [Farmland](https://www.kaggle.com/datasets/khanskku/hazespace2m-farmland-for-single-image-dehazing) | 4. Satellite 
 
 ## Pretrained Weights
 All the pre-trained weights of the classifiers and the dehazers are available to download:
