@@ -18,9 +18,9 @@ pip install -r requirements.txt
 ````
 
 ## Dataset Download
-The subsets of the HazeSpace2M dataset are available for download from the following links:
+The subsets of the HazeSpace2M dataset are available for download on Hugging
 
-**Kaggle:** Outdoor | 2. Street | 3. [Farmland](https://www.kaggle.com/datasets/khanskku/hazespace2m-farmland-for-single-image-dehazing) | 4. Satellite 
+ Outdoor | 2. Street | 3. [Farmland](https://huggingface.co/datasets/tanvirnwu/HazeSpace2M/tree/main/Farmland) | 4. Satellite 
 
 ## Pretrained Weights
 All the pre-trained weights of the classifiers and the dehazers are available to download:
