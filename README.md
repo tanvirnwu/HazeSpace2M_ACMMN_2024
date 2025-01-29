@@ -1,7 +1,7 @@
 <h4 align="center"><strong><a href="https://2024.acmmm.org/">Published in ACM Multimedia 2024, Melbourne, Australia</a></strong></h4>
 <h2 align="center"><strong>HazeSpace2M: A Dataset for Haze Aware Single Image Dehazing <a href="https://tanvirnwu.github.io/assets/papers/HazeSpace2M.pdf" target="_blank">[Paper]</a></strong></h2>
 <h6 align="center">Md Tanvir Islam<sup> 1</sup>, Nasir Rahim<sup> 1</sup>, Saeed Anwar<sup> 2</sup>, Muhammad Saqib<sup> 3</sup>, Sambit Bakshi<sup> 4</sup>, Khan Muhammad<sup> 1, *</sup></h6>
-<h6 align="center">| 1. Sungkyunkwan University, South Korea | 2. RUET, Bangladesh | 3. USTC, China | 4. Charles Darwin University, Australia | Australian Catholic University, Australia | Khulna University, Bangladesh || *Corresponding Author |</h6> 
+<h6 align="center">| 1. Sungkyunkwan University, South Korea | 2. KFUPM, KSA | 3. UTS, Australia | 4. NIT Rourkela, India || *Corresponding Author |</h6> 
 <hr>
 
 
