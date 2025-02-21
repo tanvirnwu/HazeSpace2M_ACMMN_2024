@@ -5,7 +5,7 @@
 <hr>
 
 
-## IMPORTANT UPDATES
+### IMPORTANT UPDATES
 - 2025/03/22 | Fixed the indexing issues of the [Farmland](https://huggingface.co/datasets/tanvirnwu/HazeSpace2M/tree/main/Farmland) subset.
 - 2025/03/21 | Identified an indexing issue between GT and Haze images. We are working on it to fix the issues.
 <hr>
