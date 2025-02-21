@@ -55,11 +55,10 @@ _**Note:** Each variable is explained in the inference.py file._
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=tanvirnwu&repo=HazeSpace2M&style=for-the-badge&label=Project%20Views)
 
-If you find it useful do not forget to ✨✨ the repository. Thank you!
 
 ## Cite this Paper
 
-If you find our work useful in your research, please consider citing our paper:
+If you find our work useful in your research, please consider citing our paper and star ✨✨ this repository. Thank you!
 
 ```bibtex
 @inproceedings{hazespace2m,
