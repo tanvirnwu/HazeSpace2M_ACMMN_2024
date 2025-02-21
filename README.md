@@ -5,6 +5,10 @@
 <hr>
 
 
+# IMPORTANT UPDATES
+1. 2025/03/22 --> Identified an indexing issue between GT and Haze images. We are working on it to fix the issues.
+<hr>
+
 ## HazeSpace2M Dataset
 
 ![](./assets/HazeSpace2M.jpg)
