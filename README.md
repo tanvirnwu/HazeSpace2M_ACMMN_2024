@@ -6,6 +6,7 @@
 
 
 ### IMPORTANT UPDATES
+- 2025/02/24 | Checked: No indexing issues were found in the [Street](https://huggingface.co/datasets/tanvirnwu/HazeSpace2M/tree/main/Street) subset.
 - 2025/02/24 | Fixed the indexing issues of the [Outdoor](https://huggingface.co/datasets/tanvirnwu/HazeSpace2M/tree/main/Outdoor) subset.
 - 2025/02/22 | Fixed the indexing issues of the [Farmland](https://huggingface.co/datasets/tanvirnwu/HazeSpace2M/tree/main/Farmland) subset.
 - 2025/02/21 | Identified an indexing issue between GT and Haze images. We are working on it to fix the issues.
