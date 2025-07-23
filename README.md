@@ -6,6 +6,7 @@
 
 
 ### IMPORTANT UPDATES
+- 2025/7/23 | The [Satellite](https://huggingface.co/datasets/tanvirnwu/HazeSpace2M/tree/main/Satellite) version is uploaded now.
 - 2025/02/24 | Checked: No indexing issues were found in the [Street](https://huggingface.co/datasets/tanvirnwu/HazeSpace2M/tree/main/Street) subset.
 - 2025/02/24 | Fixed the indexing issues of the [Outdoor](https://huggingface.co/datasets/tanvirnwu/HazeSpace2M/tree/main/Outdoor) subset.
 - 2025/02/22 | Fixed the indexing issues of the [Farmland](https://huggingface.co/datasets/tanvirnwu/HazeSpace2M/tree/main/Farmland) subset.
